@@ -14,7 +14,7 @@ LocalRecyclers is a Windows Forms application developed in C# to efficiently man
 * Build the solution to compile the application.
 * Run the application to start managing recyclers' information.
 
-# Usage
+# Usage Example
 * Launching the Application
   
   ![image](https://github.com/YunChen2023/LocalRecyclers/assets/143974178/9d5ffc40-a400-4472-816f-165afc281355)
